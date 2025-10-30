@@ -9,11 +9,11 @@ Recife, Pernambuco <br>
 - 📖 Amante de livros e Ciências Sociais.
 - 🐈‍⬛ Apaixonada por gatos.
 
-### Linguagens
-<img src="https://img.shields.io/badge/TypeScript-A32E4A?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/JavaScript-A32E4A?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-A32E4A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-A32E4A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+### 💻 Linguagens
+<img src="https://img.shields.io/badge/TypeScript-A32E4A?style=for-the-badge&logo=typescript&logoColor=60c3fc" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-A32E4A?style=for-the-badge&logo=javascript&logoColor=60c3fc" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-A32E4A?style=for-the-badge&logo=html5&logoColor=60c3fc" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-A32E4A?style=for-the-badge&logo=css3&logoColor=60c3fc" alt="CSS3"/>
 
 ### Frameworks
 
