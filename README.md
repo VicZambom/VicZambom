@@ -10,10 +10,10 @@ Recife, Pernambuco <br>
 - 🐈‍⬛ Apaixonada por gatos.
 
 ### Linguagens
-<img src="https://img.shields.io/badge/TypeScript-1d1626?style=for-the-badge&logo=typescript&logoColor=FF0000" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/JavaScript-1d1626?style=for-the-badge&logo=javascript&logoColor=FF0000" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-1d1626?style=for-the-badge&logo=html5&logoColor=FF0000" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1d1626?style=for-the-badge&logo=css3&logoColor=FF0000" alt="CSS3"/>
+- <img src="https://img.shields.io/badge/TypeScript-A32E4A?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+- <img src="https://img.shields.io/badge/JavaScript-A32E4A?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+- <img src="https://img.shields.io/badge/HTML5-A32E4A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+- <img src="https://img.shields.io/badge/CSS3-A32E4A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
 ### Frameworks
 
