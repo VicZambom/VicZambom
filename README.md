@@ -1,2 +1,2 @@
 # Vic Zambom
-### Desenvolvedora Front-end | Entusiasta de React e TailwindCSS
+### Desenvolvedora Front-end | Entusiasta de ReactTS e TailwindCSS
