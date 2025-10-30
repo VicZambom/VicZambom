@@ -17,3 +17,13 @@ Recife, Pernambuco <br>
 
 ### Ferramentas e Plataformas
 <img src="https://img.shields.io/badge/Git-A32E4A?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-A32E4A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Figma-A32E4A?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> <img src="https://img.shields.io/badge/Node.js-A32E4A?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Vercel-A32E4A?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/> <img src="https://img.shields.io/badge/Vite-A32E4A?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/Netlify-A32E4A?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/> <img src="https://img.shields.io/badge/Postman-A32E4A?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/ESLint-A32E4A?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/>
+
+### Estatísticas do GitHub
+<div style="display: flex;">
+  <a style="border: 2px solid #FFFFFF; border-radius: 10px; overflow: hidden; margin-right: 16px;">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VicZambom&bg_color=A32E4A&hide_border=true&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&locale=pt-br&hide=stars,prs,issues&show=prs_merged" alt="GitHub Stats"/>
+  </a>
+  <a style="border: 2px solid #FFFFFF; border-radius: 10px; overflow: hidden;">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicZambom&layout=compact&langs_count=16&bg_color=A32E4A&hide_border=true&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&locale=pt-br" alt="Top Languages"/>
+  </a>
+</div>
